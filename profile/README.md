@@ -1,3 +1,5 @@
 ## Up Toolkit
 
-Opinionated Web Toolkits for Changemakers 🚀
+Free opinionated web toolkits for changemakers 🚀
+
+Contribute to our boilerplates and tools, any helps appreciated :-)
