@@ -2,4 +2,4 @@
 
 Free opinionated web toolkits for changemakers 🚀
 
-Contribute to our boilerplates and tools, any helps appreciated :-)
+Contribute to our boilerplates and tools, any helps or suggestions appreciated :-)
